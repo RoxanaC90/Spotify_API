@@ -1,0 +1,8 @@
+{
+  'User-Agent': 'python-requests/2.31.0',
+  'Accept-Encoding': 'gzip, deflate',
+  'Accept': '*/*',
+  'Connection': 'keep-alive',
+  'Authorization': 'Bearer BQCT4K3IBv6oyl5gJIn_A6yovPblSpKZiw9i4DFRoG-1G2QpZmr_vzKi7jVDxQ21NpIjyPkk-npm4Bi_d_sPxQtJBUYa-eqrAkfcliAB33RpgfwqaA8'
+}
+https://api.spotify.com/v1/artists/?ids=2CIMQHirSU0MQqyYHq0eOx%2C57dN52uHvrHOxijzpIgu3E%2C1vCWHaC5f2uS3yhpwWbIA6

@@ -1,0 +1,18 @@
+
+    # 3. get several albums test status code and content
+    # https://developer.spotify.com/documentation/web-api/reference/get-multiple-albums
+
+    # 4. get several albums with id and markets
+
+    # 5. get album tracks
+    # https://developer.spotify.com/documentation/web-api/reference/get-an-albums-tracks
+    # verificati continutul dictionarului .json pt anumite valori
+    # hint: printati continutul .json, formatati si alegeti 2 valori pt fiecare request
+    # 6. get artist
+    # https://developer.spotify.com/documentation/web-api/reference/get-an-artist
+    # 7. get several artists
+    # https://developer.spotify.com/documentation/web-api/reference/get-multiple-artists
+    # 8. get artist's albums
+    # https://developer.spotify.com/documentation/web-api/reference/get-an-artists-albums
+    # 9. get artist's top tracks
+    # https://developer.spotify.com/documentation/web-api/reference/get-an-artists-top-tracks
